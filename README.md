@@ -10,7 +10,7 @@ The aim of this project is to create two APIs and two different frontend, one fo
 
 ## 📨 Purpose
 
-Creation of a web application to manage volunteers and games at the Montpellier Game Festival.
+Creation of a web and iOS application to manage volunteers and games at the Montpellier Game Festival.
 
 ## 🔑 Keywords
 
