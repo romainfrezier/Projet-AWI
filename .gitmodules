@@ -1,0 +1,12 @@
+[submodule "Mobile-iOS"]
+	path = Mobile-iOS
+	url = https://github.com/romainfrezier/Mobile-iOS.git
+[submodule "Mobile-iOS-API"]
+	path = Mobile-iOS-API
+	url = https://github.com/romainfrezier/Mobile-iOS-API.git
+[submodule "AWI-project-frontend"]
+	path = AWI-project-frontend
+	url = https://github.com/romainfrezier/AWI-project-frontend.git
+[submodule "AWI-project-backend"]
+	path = AWI-project-backend
+	url = https://github.com/romainfrezier/AWI-project-backend
